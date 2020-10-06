@@ -7,7 +7,7 @@
 3. OS
 4. Software Engineering
 
-**This notes can be used as a basic refresher to ace your next coding interview.**
+**This notes can be used as a basic refresher to ace your next interview.**
 
 **All the questions and theory concepts are covered which are asked most frequently in a coding interview.**
 
