@@ -17,8 +17,11 @@ All the questions and theory concepts are covered which are asked most frequentl
 
 ```
 This is not the final quality of notes and needs to be polished.
+
 So some part of the answers may not be understandable :(
+
 But don't worry I will be always polishing and improving quality of notes on regular basis :)
+
 So stay tuned :D
 ```
 
